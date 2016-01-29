@@ -1,0 +1,64 @@
+###################################################
+###################### FERTIG #####################
+###################################################
+
+============= UPSTREAM ============
+
+gosa-plugins-zarafa: nicht in limux-gosa vorhanden
+gosa-plugin-schoolmanager: nicht in limux-gosa vorhanden
+gosa-plugin-mailaddress: nicht in limux-gosa vorhanden
+gosa-plugin-pwreset: nicht in limux-gosa vorhanden
+
+gosa-plugins-apache2: OK (identisch mit limux)
+gosa-plugins-heimdal: OK
+gosa-plugins-nagios: OK
+gosa-plugins-netatalk: OK
+gosa-plugins-opengroupware: OK
+gosa-plugins-openxchange: OK
+gosa-plugins-phpscheduleit: OK
+gosa-plugins-pptp: OK
+gosa-plugins-scalix: OK
+
+============== LIMUX  ==============
+debian, gosa-quickstart: MSB-spezifisch => kein Merge nach Upstream
+
+
+#####################################################################
+########################## TODO #####################################
+#####################################################################
+
+============= UPSTREAM ============
+gosa-plugins-rsyslog: TRIVIAL, BENUTZT VON LIMUX => WICHTIG!
+gosa-plugins-groupware: TRIVIAL
+gosa-plugins-connectivity: TRIVIAL
+gosa-plugins-dhcp: TRIVIAL
+gosa-plugins-dns: TRIVIAL
+gosa-plugins-gofax: TRIVIAL
+gosa-plugins-kolab: TRIVIAL
+gosa-plugins-ldapmanager: TRIVIAL
+gosa-plugins-log: TRIVIAL
+gosa-plugins-mail: TRIVIAL
+gosa-plugins-opsi: TRIVIAL
+gosa-plugins-phpgw: TRIVIAL
+gosa-plugins-pureftpd: TRIVIAL
+gosa-plugins-rolemanagement: TRIVIAL
+gosa-plugins-squid: TRIVIAL
+gosa-plugins-ssh: TRIVIAL
+gosa-plugins-sudo: TRIVIAL
+gosa-plugins-webdav: TRIVIAL
+
+gosa-plugins-gofon: EASY
+
+gosa-plugins-goto-ng: MEDIUM
+
+gosa-plugins-goto: HARD, BENUTZT VON LIMUX => WICHTIG!
+gosa-plugins-systems: HARD, BENUTZT VON LIMUX => WICHTIG!
+gosa-plugins-fai: HARD, BENUTZT VON LIMUX => WICHTIG!
+gosa-core: HARD, BENUTZT VON LIMUX => WICHTIG!
+
+============== LIMUX  ==============
+gosa-plugins/mit-krb5: fehlt in Upstream
+gosa-plugins/uw-imap: fehlt in Upstream
+gosa-plugins/samba: fehlt in Upstream, BENUTZT VON LIMUX => WICHTIG!
+gosa-plugins/smarty: ist nach gosa-core/include/smartyAddons gewandert
+go-susi: Ersatz für gosa-si, soll nach Upstream, BENUTZT VON LIMUX => WICHTIG!
