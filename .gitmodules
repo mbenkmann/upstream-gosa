@@ -1,0 +1,111 @@
+[submodule "gosa-core"]
+	path = gosa-core
+	url = https://github.com/gosa-project/gosa-core.git
+[submodule "gosa-plugin-pwreset"]
+	path = gosa-plugin-pwreset
+	url = https://github.com/gosa-project/gosa-plugin-pwreset.git
+[submodule "gosa-plugins-ldapmanager"]
+	path = gosa-plugins-ldapmanager
+	url = https://github.com/gosa-project/gosa-plugins-ldapmanager.git
+[submodule "gosa-plugins-apache2"]
+	path = gosa-plugins-apache2
+	url = https://github.com/gosa-project/gosa-plugins-apache2.git
+[submodule "gosa-plugins-rsyslog"]
+	path = gosa-plugins-rsyslog
+	url = https://github.com/gosa-project/gosa-plugins-rsyslog.git
+[submodule "gosa-plugins-goto-ng"]
+	path = gosa-plugins-goto-ng
+	url = https://github.com/gosa-project/gosa-plugins-goto-ng.git
+[submodule "gosa-plugins-squid"]
+	path = gosa-plugins-squid
+	url = https://github.com/gosa-project/gosa-plugins-squid.git
+[submodule "gosa-plugins-systems"]
+	path = gosa-plugins-systems
+	url = https://github.com/gosa-project/gosa-plugins-systems.git
+[submodule "gosa-plugins-log"]
+	path = gosa-plugins-log
+	url = https://github.com/gosa-project/gosa-plugins-log.git
+[submodule "gosa-plugins-mail"]
+	path = gosa-plugins-mail
+	url = https://github.com/gosa-project/gosa-plugins-mail.git
+[submodule "gosa-plugins-pureftpd"]
+	path = gosa-plugins-pureftpd
+	url = https://github.com/gosa-project/gosa-plugins-pureftpd.git
+[submodule "gosa-plugins-openxchange"]
+	path = gosa-plugins-openxchange
+	url = https://github.com/gosa-project/gosa-plugins-openxchange.git
+[submodule "gosa-plugins-nagios"]
+	path = gosa-plugins-nagios
+	url = https://github.com/gosa-project/gosa-plugins-nagios.git
+[submodule "gosa-plugins-scalix"]
+	path = gosa-plugins-scalix
+	url = https://github.com/gosa-project/gosa-plugins-scalix.git
+[submodule "gosa-plugins-gofon"]
+	path = gosa-plugins-gofon
+	url = https://github.com/gosa-project/gosa-plugins-gofon.git
+[submodule "gosa-plugins-dns"]
+	path = gosa-plugins-dns
+	url = https://github.com/gosa-project/gosa-plugins-dns.git
+[submodule "gosa-plugins-webdav"]
+	path = gosa-plugins-webdav
+	url = https://github.com/gosa-project/gosa-plugins-webdav.git
+[submodule "gosa-plugins-kolab"]
+	path = gosa-plugins-kolab
+	url = https://github.com/gosa-project/gosa-plugins-kolab.git
+[submodule "gosa-plugins-fai"]
+	path = gosa-plugins-fai
+	url = https://github.com/gosa-project/gosa-plugins-fai.git
+[submodule "gosa-plugins-heimdal"]
+	path = gosa-plugins-heimdal
+	url = https://github.com/gosa-project/gosa-plugins-heimdal.git
+[submodule "gosa-plugins-opsi"]
+	path = gosa-plugins-opsi
+	url = https://github.com/gosa-project/gosa-plugins-opsi.git
+[submodule "gosa-plugins-gofax"]
+	path = gosa-plugins-gofax
+	url = https://github.com/gosa-project/gosa-plugins-gofax.git
+[submodule "gosa-plugins-sudo"]
+	path = gosa-plugins-sudo
+	url = https://github.com/gosa-project/gosa-plugins-sudo.git
+[submodule "gosa-plugins-goto"]
+	path = gosa-plugins-goto
+	url = https://github.com/gosa-project/gosa-plugins-goto.git
+[submodule "gosa-plugins-connectivity"]
+	path = gosa-plugins-connectivity
+	url = https://github.com/gosa-project/gosa-plugins-connectivity.git
+[submodule "gosa-plugins-opengroupware"]
+	path = gosa-plugins-opengroupware
+	url = https://github.com/gosa-project/gosa-plugins-opengroupware.git
+[submodule "gosa-plugins-ssh"]
+	path = gosa-plugins-ssh
+	url = https://github.com/gosa-project/gosa-plugins-ssh.git
+[submodule "gosa-plugins-rolemanagement"]
+	path = gosa-plugins-rolemanagement
+	url = https://github.com/gosa-project/gosa-plugins-rolemanagement.git
+[submodule "gosa-plugins-netatalk"]
+	path = gosa-plugins-netatalk
+	url = https://github.com/gosa-project/gosa-plugins-netatalk.git
+[submodule "gosa-plugins-pptp"]
+	path = gosa-plugins-pptp
+	url = https://github.com/gosa-project/gosa-plugins-pptp.git
+[submodule "gosa-plugins-zarafa"]
+	path = gosa-plugins-zarafa
+	url = https://github.com/gosa-project/gosa-plugins-zarafa.git
+[submodule "gosa-plugins-phpscheduleit"]
+	path = gosa-plugins-phpscheduleit
+	url = https://github.com/gosa-project/gosa-plugins-phpscheduleit.git
+[submodule "gosa-plugins-phpgw"]
+	path = gosa-plugins-phpgw
+	url = https://github.com/gosa-project/gosa-plugins-phpgw.git
+[submodule "gosa-plugins-dhcp"]
+	path = gosa-plugins-dhcp
+	url = https://github.com/gosa-project/gosa-plugins-dhcp.git
+[submodule "gosa-plugins-groupware"]
+	path = gosa-plugins-groupware
+	url = https://github.com/gosa-project/gosa-plugins-groupware.git
+[submodule "gosa-plugin-mailaddress"]
+	path = gosa-plugin-mailaddress
+	url = https://github.com/gosa-project/gosa-plugin-mailaddress.git
+[submodule "gosa-plugin-schoolmanager"]
+	path = gosa-plugin-schoolmanager
+	url = https://github.com/gosa-project/gosa-plugin-schoolmanager.git
